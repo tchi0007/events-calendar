@@ -1,0 +1,46 @@
+html {
+  font-family: Merriweather, serif;
+  color: #333;
+}
+
+.event {
+  border: 1px solid;
+  border-radius: 8px;
+}
+
+.grey {
+  color: #666;
+  background-color: #f2f2f2;
+  border-color: #ccc;
+}
+
+.red {
+  color: #991919;
+  background-color: #f2bcbc;
+  border-color: #b92828;
+}
+
+.green {
+  color: #51603f;
+  background-color: #d1e0bf;
+  border-color: #6b7e54;
+}
+
+.blue {
+  color: #38448e;
+  background-color: #d2d6f0;
+  border-color: #1d38da;
+}
+
+table {
+  border: 1px solid #f2f2f2;
+}
+
+
+th, td {
+  border: 1px solid #ccc;
+}
+
+tbody tr {
+  height: 200px;
+}
